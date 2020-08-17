@@ -1,18 +1,18 @@
 # Site wide configuration
 
-title: Academic Website of Ted Laderas
+title: PJ's Cove
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Ted Laderas
+  name: PJ
   avatar: bio-photo.jpg
-  bio: "This is a sample Jekyll academic website."
-  email: laderast@ohsu.edu
+  bio: "Welcome to my cove!"
+  email: xyz@gmail.com
   # Do not include the @ symbol in your Twitter username
-  twitter: laderast
-  linkedin: #username
+  twitter: #N/A
+  linkedin: #N/A
   github: laderast
   orcid: # ID Number (ex. 0000-0000-0000-0000)
   researchgate: #username
