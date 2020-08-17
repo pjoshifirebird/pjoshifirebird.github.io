@@ -3,17 +3,21 @@ layout: resume
 ---
 ## Currently
 
-Current Position Description
+High School Student
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`2010 - 2015`
+__Louis E Stocklmeir Elementary School__
+Graduation
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`2016 - 2018`
+__Cupertino Middle School__
+Graduation
+
+`2019 - Present`
+__Fremont High School__
+N/A
 
 ## Awards
 
