@@ -2,8 +2,10 @@
 - title: Home
   url: /
 
-- title: Presentations
+<!-- 
+- title: Hobbies
   url: /presentations/
+-->
 
 - title: CV
   url: /cv/
@@ -11,5 +13,5 @@
 - title: Blog
   url: /blog/
 
-- title: Workshops
+- title: Projects
   url: /workshops/
