@@ -5,9 +5,10 @@ layout: resume
 
 High School Student
 
+<!--
 ## Education
 
-<!-- `2010 - 2015`
+`2010 - 2015`
 __Louis E Stocklmeir Elementary School__
 Graduation
 
@@ -18,7 +19,6 @@ Graduation
 `2019 - Present`
 __Fremont High School__
 N/A
--->
 
 ## Awards
 
@@ -26,9 +26,10 @@ N/A
 Name of Award, Organization 
 
 ## Publications
+-->
 
 <!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
+<!--
 ### Journals
 
 `1994`
@@ -65,6 +66,7 @@ __Current Job Title__, Current Employer
 
 - Task
 - Task
+-->
 
 
 
