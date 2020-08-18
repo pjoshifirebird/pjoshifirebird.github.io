@@ -1,5 +1,5 @@
 ---
 layout: presentation-post-index
-title: Projects
+title: Hobbies
 <!-- excerpt: "Recent Presentations" -->
 ---
