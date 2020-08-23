@@ -3,9 +3,9 @@ layout: resume
 ---
 
 ## Schools Attended
-Fremont High School (FHS): 2019 - Present, GPA: 4.0 UW
-Cupertino Middle School (CMS): 2016-2019 
-Louis E Stocklmeir Elementary School: 2010-2016
+* Fremont High School (FHS): 2019 - Present, GPA: 4.0 UW
+* Cupertino Middle School (CMS): 2016-2019 
+* Louis E Stocklmeir Elementary School: 2010-2016
 
 
 ## Projects
