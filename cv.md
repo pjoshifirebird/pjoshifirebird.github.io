@@ -10,8 +10,8 @@ layout: resume
 
 ## Projects
 * Personal static website using GitHub pages
-  * `A fun personal project to learn web development using HTML, CSS, and Jekyll themes`
-  * `https://pjoshi23.github.io/`
+  * A fun personal project to learn web development using HTML, CSS, and Jekyll themes
+  * https://pjoshi23.github.io/
 * Game of 21
   * `Developed a Java program to run a game of 21 between user and computer`
 * 911 calls filtering
