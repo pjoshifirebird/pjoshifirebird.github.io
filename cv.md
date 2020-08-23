@@ -44,12 +44,17 @@ Participated in FIRST Lego League (FLL) Robotics Tournaments in 2017 and 2018
 * Love to mentor and teach younger children
 * Speak and write proficient Spanish. Can understand Hindi
 
-### Volunteering
+## Volunteering
 * Helped WizBots camp counselors as a Leader-In-Training
 * Past member of NJHS (National Junior Honor Society). As part of NJHS, I volunteered at Stocklmeir Elementary School, helping a 2nd grade teacher with student paperwork
 * Past member of WEB, a school run program at CMS, to help mentor incoming 6th grade students throughout the school year
 
-### Footer
+
+
+
+
+
+
 
 Last updated: Aug 2020 
 
