@@ -1,12 +1,12 @@
 # Site wide configuration
 
-title: PJ's Cove
+title: Fremont High Robotics
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Pranav Joshi
+  name: Felipe Firebird
   avatar: bio-photo.jpg
   bio: "Welcome to my cove!"
   email: star.flight431@gmail.com
