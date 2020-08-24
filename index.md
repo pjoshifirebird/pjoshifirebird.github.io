@@ -2,11 +2,10 @@
 layout: page
 title: About Me
 ---
-I am a sophomore at Fremont High School. Please see my complete profile on "Resume" tab.
-## Current Interests and Projects:
+We are the Fremont High Robotics Programming Club
 
-- Math
-- Programming
-- [GitHub Pages](http://pjoshi23.github.io)
-- Sports
+## Current Projects
 
+- [Website Development](https://pjoshifirebird.github.io/web-dev): Authored by Robert
+- [App Development](https://pjoshifirebird.github.io/app-dev): Authored by William
+- [Machine Learning Project](https://pjoshifirebird.github.io/ml): Authored by Harry
