@@ -2,10 +2,11 @@
 layout: page
 title: About Me
 ---
-
+I am a sophomore at Fremont High School. 
 ## Current Interests and Projects:
 
-- Math / Programming
+- Math
+- Programming
 - [GitHub Pages](http://pjoshi23.github.io)
 - Sports
 
