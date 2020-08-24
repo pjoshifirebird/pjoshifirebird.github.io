@@ -2,11 +2,13 @@
 - title: Home
   url: /
 
+- title: Resume
+  url: /resume/
+    
+- title: Projects
+  url: /projects/
+
 - title: Hobbies
   url: /hobbies/
 
-- title: Resume
-  url: /resume/
 
-- title: Projects
-  url: /projects/
