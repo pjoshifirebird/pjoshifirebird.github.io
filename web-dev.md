@@ -4,7 +4,7 @@ title: Website Development
 ---
 
 ### Project Overview
-This project is to help students of the Programming Club learn about Machine Learning in new and unique ways!
+This project is to help students of the Programming Club learn about Website Development in new and unique ways!
 
 ## Project Info
 This project was made using HTML and CSS, along with the use of Jekyll themes. 
