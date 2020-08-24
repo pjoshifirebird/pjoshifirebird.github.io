@@ -1,6 +1,6 @@
 ---
 layout: page
-excerpt: "About Me..."
+title: About Me
 ---
 
 ## Current Interests and Projects:
