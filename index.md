@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About Me
+title: About Us
 ---
 We are the Fremont High Robotics Programming Club
 
-## Current Projects
+## Here are some of our current projects: 
 
 - [Website Development](https://pjoshifirebird.github.io/web-dev): Authored by Robert
 - [App Development](https://pjoshifirebird.github.io/app-dev): Authored by William
